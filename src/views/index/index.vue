@@ -14,7 +14,7 @@ export default {
         initialFrameHeight: 700,
         // 初始容器宽度
         initialFrameWidth: '80%',
-        UEDITOR_HOME_URL: '/static/UEditor/',
+        UEDITOR_HOME_URL: '/UEditor/',
         enableAutoSave: false,
         allHtmlEnabled: true,
         saveInterval: 500000,
